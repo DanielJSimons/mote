@@ -1,13 +1,15 @@
 # Mote
 
-```text
-███╗   ███╗ ██████╗ ████████╗███████╗
-████╗ ████║██╔═══██╗╚══██╔══╝██╔════╝
-██╔████╔██║██║   ██║   ██║   █████╗
-██║╚██╔╝██║██║   ██║   ██║   ██╔══╝
-██║ ╚═╝ ██║╚██████╔╝   ██║   ███████╗
-╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
-```
+<p align="center">
+  <samp>
+    ███╗&nbsp;&nbsp;&nbsp;███╗ ██████╗ ████████╗███████╗<br>
+    ████╗ ████║██╔═══██╗╚══██╔══╝██╔════╝<br>
+    ██╔████╔██║██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;█████╗<br>
+    ██║╚██╔╝██║██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██╔══╝<br>
+    ██║&nbsp;╚═╝&nbsp;██║╚██████╔╝&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████╗<br>
+    ╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝ ╚═════╝&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚══════╝
+  </samp>
+</p>
 
 <p align="center"><strong>Local search. Built from first principles.</strong></p>
 
